@@ -31,6 +31,5 @@ def list_users():
 # Simple CLI interaction
 if __name__ == "__main__":
     create_table()
-    add_user("Alice", "alice@example.com")
-    add_user("Bob", "bob@example.com")
+    # add_user("Mom", "mom@example.com")
     list_users()
